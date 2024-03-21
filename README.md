@@ -14,6 +14,11 @@ Download the latest version of the executable file suitable for your operating s
 ****
 
 ## Usage
+Full command:
+```
+./Hpkse -data path/to/folder
+```
+
 args: data (Set search folder)
 ```
 -data
